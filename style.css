@@ -51,12 +51,12 @@ li:before {
   color: var(--theme-color);
 }
 
-.supplement {
+/* .supplement {
   content: "";
   padding-left: 25px;
   color: #67686b;
   opacity: 0.6
-}
+} */
 
 /* --------------------
           表
