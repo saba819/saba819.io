@@ -51,7 +51,7 @@ li:before {
   color: var(--theme-color);
 }
 
-li, .supplement {
+.supplement {
   list-style: none;
         padding-left: 25px;
         color: #67686b;
