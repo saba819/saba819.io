@@ -1,4 +1,4 @@
-/* --------------------
+re/* --------------------
         全体
 -------------------- */
 
@@ -52,12 +52,15 @@ li:before {
   color: var(--theme-color);
 }
 
-.supp {
+.supp:before {
   content: none;
+} 
+
+.supp {
   padding-left: 25px;
   color: #67686b;
   opacity: 0.6
-} 
+}
 
 /* --------------------
           表
