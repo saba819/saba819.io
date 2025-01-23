@@ -48,6 +48,12 @@ ul {
   list-style: none;
 }
 
+.contents {
+  color: var(--theme-color);
+  margin: 0;
+  padding: 30px;
+}
+
 .contents:before {
   content: "★";
   color: var(--theme-color);
