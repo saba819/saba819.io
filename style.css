@@ -48,13 +48,7 @@ ul {
   list-style: none;
 }
 
-li {
-  color: var(--theme-color);
-  margin: 0;
-  padding: 30px;
-}
-
-.contents:before {
+.li:before {
   content: "★";
   color: var(--theme-color);
 }
