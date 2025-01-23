@@ -48,7 +48,7 @@ ul {
   list-style: none;
 }
 
-.contents {
+.li {
   color: var(--theme-color);
   margin: 0;
   padding: 30px;
