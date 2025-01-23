@@ -47,14 +47,11 @@ a {
 ul {
   list-style: none;
 }
-li:before {
+
+.contents:before {
   content: "★";
   color: var(--theme-color);
 }
-
-.supp:before {
-  content: none;
-} 
 
 .supp {
   padding-left: 25px;
