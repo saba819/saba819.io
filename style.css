@@ -43,6 +43,13 @@ a {
         リスト
 -------------------- */
 
+.supplement {
+  content: "";
+  padding-left: 25px;
+  color: #67686b;
+  opacity: 0.6
+} 
+
 ul {
   list-style: none;
 }
@@ -50,13 +57,6 @@ li:before {
   content: "★";
   color: var(--theme-color);
 }
-
-.supplement {
-  content: "";
-  padding-left: 25px;
-  color: #67686b;
-  opacity: 0.6
-} 
 
 /* --------------------
           表
